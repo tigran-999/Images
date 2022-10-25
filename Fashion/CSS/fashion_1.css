@@ -1,6 +1,6 @@
 body {
 	font: 400 15px/1.8 Lato, sans-serif;
-    color: #777; 
+        color: #777; 
 	position: relative; 
   }
   h3 {
@@ -26,7 +26,7 @@ body {
     opacity: 0.9; 
   }
   .navbar .navbar-header .navbar-brand {
-    font-family: Arimo, sans-serif;
+        font-family: Arimo, sans-serif;
 	font-style: italic;
 	color: #33bfb0;
 	margin-right: 11.25em;
@@ -47,7 +47,7 @@ body {
   .form-control {
 	background-color: rgba(45,45,48,0.5); 
 	border-color: #808080;
-    border-radius: 0; 
+        border-radius: 0; 
 	color: #d5d5d5;
   }
   .btn {                        /* search button */
